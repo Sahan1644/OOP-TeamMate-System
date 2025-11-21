@@ -57,7 +57,7 @@ public class Main {
         }
     }
 
-    // ---------------- Participant menu ---------------
+    // ---------------- Participant menu ----------------
     private static void participantMenu(List<Participant> participants) {
         while (true) {
             System.out.println("\n===== PARTICIPANT MENU =====");
